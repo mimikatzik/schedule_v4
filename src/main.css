@@ -108,7 +108,7 @@
     body {
         overflow-x: hidden;
         height: 100vh;
-        background-color: var(--bg-page);
+        background-color: var(--scene-a);
         color: var(--text-primary);
         transition: background-color 0.4s ease, color 0.3s ease;
     }
